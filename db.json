@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe",
-      "account_type": "free",
+      "account_type": "paid",
       "role": "USER"
     }
   ]
