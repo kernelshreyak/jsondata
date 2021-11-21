@@ -1,6 +1,11 @@
 {
-  firstname:"John",
-  lastname: "Doe",
-  account_type:"free",
-  status:1
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "account_type": "free",
+      "role": "USER"
+    }
+  ]
 }
