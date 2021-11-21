@@ -1,0 +1,6 @@
+{
+  firstname:"John",
+  lastname: "Doe",
+  account_type:"free",
+  status:1
+}
